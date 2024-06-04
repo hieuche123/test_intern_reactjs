@@ -40,7 +40,7 @@ const GoogleMapOverlay = () => {
       <GoogleMap
         mapContainerStyle={mapContainerStyle}
         center={center}
-        zoom={14.5}
+        zoom={13}
         options={{ disableDefaultUI: true }}
       />
       <img

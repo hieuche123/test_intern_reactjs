@@ -1,0 +1,20 @@
+.scroll{
+    width: 400px;
+    height: 100px;
+}
+
+.scroll-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-scroll1 {
+    height: 30px;
+    width: 200px;
+}
+
+
+.input-scroll2 {
+    font-size: 15px;
+}
