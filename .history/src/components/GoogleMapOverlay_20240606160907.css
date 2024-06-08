@@ -1,0 +1,36 @@
+.overlay-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    pointer-events: none;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .scroll {
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+  }
+  
+  .scroll-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-scroll1 {
+    margin-right: 10px;
+  }
+  
+  .input-scroll2 {
+    margin: 0;
+  }
