@@ -1,0 +1,10 @@
+/* MapComponent.css */
+.MapContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.PDFOverlay {
+  position: absolute;
+  cursor: grab;
+}

@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.controls {
+  margin: 20px;
+}
+
+.map-container {
+  height: 600px;
+  width: 800px;
+  margin: auto;
+}
+
+.leaflet-container {
+  background-color: #f0f0f0; /* Màu nền của bản đồ */
+}
+
+.react-pdf__Page {
+  border: 1px solid black; /* Viền đen cho trang PDF */
+}

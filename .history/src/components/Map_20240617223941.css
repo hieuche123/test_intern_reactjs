@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  height: 600px;
+}
+
+.pdf-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.controls {
+  margin-top: 20px;
+}
+.pdf-map {
+  z-index: 2;
+}
