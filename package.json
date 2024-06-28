@@ -27,6 +27,7 @@
     "react-number-format": "^5.4.0",
     "react-pdf": "^9.0.0",
     "react-popper": "^2.3.0",
+    "react-resizable": "^3.0.5",
     "react-rnd": "^10.4.11",
     "react-scripts": "5.0.1",
     "react-strap": "^0.0.1",
